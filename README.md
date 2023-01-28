@@ -14,4 +14,4 @@
 - matplotlib
 - os
 ##### This project is used to analyze and investigate data sets and summarize their main characteristics, often employing data visualization methods.
-[To View demo Video, Click Here](https://www.linkedin.com/posts/sakshi-porwal-786159214_january2022-opportunity-python-activity-7024596116272783360-CCyI?utm_source=share&utm_medium=member_desktop)
+[To View demo Video, Click Here](https://www.linkedin.com/posts/sakshi-porwal-786159214_january2022-python-pandas-activity-7024949399935983616-FHtj?utm_source=share&utm_medium=member_desktop)
